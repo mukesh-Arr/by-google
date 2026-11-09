@@ -1,0 +1,7 @@
+{
+  "name": "VoiceCraft - AI Text to Speech Studio",
+  "description": "High-fidelity AI voice generator and text-to-speech studio powered by Gemini 3.8 Flash TTS with natural voices, emotional styling, multi-speaker dialogue, and instant audio download.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
